@@ -13,10 +13,6 @@ import Object.ObjectManager;
 import Object.Character.StringLabel;
 
 public class Application extends JFrame implements MouseListener,MouseMotionListener {
-	/**
-	 *
-	 */
-	private static final long serialVersionUID = 6296962141376967263L;
 
 	public static Panel mPanel;
 	public static ObjectManager mObj;		// オブジェクト管理者
